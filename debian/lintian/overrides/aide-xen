@@ -1,0 +1,2 @@
+aide-xen: statically-linked-binary usr/bin/aide
+aide-xen: embedded-library usr/bin/aide: zlib
